@@ -5,7 +5,7 @@
   "main": "src/quick.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GuglielmoPepe/quick"
+    "url": "https://github.com/gorobey/quick"
   },
   "keywords": [
     "css",
@@ -13,10 +13,10 @@
     "class-less",
     "small size"
   ],
-  "author": "Guglielmo Pepe",
+  "author": "Giulio Gorobey",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GuglielmoPepe/quick/issues"
+    "url": "https://github.com/gorobey/quick/issues"
   },
-  "homepage": "https://guglielmopepe.github.io/quick/"
+  "homepage": "https://lab.gorobey.it/quick/docs/"
 }
